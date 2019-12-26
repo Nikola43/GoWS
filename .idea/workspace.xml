@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de1146e3-5fc2-499f-8208-ca4c9340eaca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KonanWorkspace">
+    <executables />
+  </component>
+  <component name="ProjectId" id="1UhqbB5CD6BBVchCkH1rW8Rajb3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build github.com/nikola43/testsocket">
+    <configuration name="go build github.com/nikola43/WorkingHoursCounterApi" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="WorkingHoursCounterApi" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/nikola43/WorkingHoursCounterApi" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build github.com/nikola43/testsocket" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="WorkingHoursCounterApi" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/nikola43/testsocket" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestAntsPool in github.com/nikola43/WorkingHoursCounterApi/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="WorkingHoursCounterApi" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/nikola43/WorkingHoursCounterApi/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestAntsPool$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetUser in github.com/nikola43/WorkingHoursCounterApi/test" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="WorkingHoursCounterApi" />
+      <working_directory value="$PROJECT_DIR$/test" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/nikola43/WorkingHoursCounterApi/test" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestGetUser$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/nikola43/testsocket" />
+        <item itemvalue="Go Build.go build github.com/nikola43/WorkingHoursCounterApi" />
+        <item itemvalue="Go Test.TestGetUser in github.com/nikola43/WorkingHoursCounterApi/test" />
+        <item itemvalue="Go Test.TestAntsPool in github.com/nikola43/WorkingHoursCounterApi/test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de1146e3-5fc2-499f-8208-ca4c9340eaca" name="Default Changelist" comment="" />
+      <created>1575819243368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575819243368</updated>
+      <workItem from="1575819244743" duration="6251000" />
+      <workItem from="1575848436729" duration="1024000" />
+      <workItem from="1577400579930" duration="42000" />
+      <workItem from="1577400662569" duration="2689000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="189" key="#GOROOT" timestamp="1577400608197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="189" key="#GOROOT/0.0.1920.1040/-1080.0.1080.1880@0.0.1920.1040" timestamp="1577400608197" />
+    <state x="560" y="215" key="#GOROOT/1920.171.1440.877/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1575819259821" />
+    <state x="560" y="215" key="#Go_Modules_(vgo)" timestamp="1575819412217">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="560" y="215" key="#Go_Modules_(vgo)/1920.171.1440.877/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1575819412217" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1577403407823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1080.0.1080.1880@0.0.1920.1040" timestamp="1577403407823" />
+    <state width="1878" height="270" key="GridCell.Tab.0.bottom/1920.171.1440.877/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1575850900670" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1577403407823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040/-1080.0.1080.1880@0.0.1920.1040" timestamp="1577403407823" />
+    <state width="1878" height="270" key="GridCell.Tab.0.center/1920.171.1440.877/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1575850900666" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1577403407823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040/-1080.0.1080.1880@0.0.1920.1040" timestamp="1577403407823" />
+    <state width="1878" height="270" key="GridCell.Tab.0.left/1920.171.1440.877/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1575850900666" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1577403407823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040/-1080.0.1080.1880@0.0.1920.1040" timestamp="1577403407823" />
+    <state width="1878" height="270" key="GridCell.Tab.0.right/1920.171.1440.877/-1920.23.1920.1057/0.23.1920.1057@0.23.1920.1057" timestamp="1575850900668" />
+    <state x="636" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1577400664409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1080.0.1080.1880@0.0.1920.1040" timestamp="1577400664409" />
+    <state x="646" y="94" width="627" height="852" key="find.popup" timestamp="1577400741124">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="646" y="94" width="627" height="852" key="find.popup/0.0.1920.1040/-1080.0.1080.1880@0.0.1920.1040" timestamp="1577400741124" />
+  </component>
+</project>
